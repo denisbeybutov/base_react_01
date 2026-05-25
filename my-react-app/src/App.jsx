@@ -11,6 +11,7 @@ function App() {
     <>      
       <h1>My project</h1>     
       <People number={1}/>
+      <People number={2}/>
       
     </>
   )
