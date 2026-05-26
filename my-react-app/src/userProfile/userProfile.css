@@ -1,0 +1,19 @@
+.user {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    background-color: rgb(116, 116, 116);
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    color: black;
+}
+
+.user__img {
+    width: 150px;
+    border-radius: 10px;
+}
+
+.user__decription{
+    text-align: left;
+}
